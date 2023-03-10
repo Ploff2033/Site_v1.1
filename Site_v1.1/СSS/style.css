@@ -1,0 +1,92 @@
+#Rust{
+	font-family: 'Rust';
+	font-size: 80px;
+	text-align: center;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+html {
+	background-image: url(https://phonoteka.org/uploads/posts/2022-02/1644332594_13-phonoteka-org-p-rast-zadnii-fon-14.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+  }
+.text_opisanie{
+	margin-left: 10%;
+	font-size: 120%;
+	font-family: 'JetBrains Mono';
+
+}
+.Glav{
+	display: flex;
+	justify-content: space-between;
+	margin-left: 10%;
+	margin-right: 7.7%;
+	font-family: 'JetBrains Mono';
+	border: 4px solid black;
+	border-radius: 7px;
+}
+#rectangle {
+    width: 80vw;
+    height: 25%;
+    background: #e0dbd994;
+}
+
+.map{
+	margin-left: 10%;
+	width: 80vw;
+    height: 89vh;
+    background: #e0dbd994;
+	text-align: left;
+	border: 4px solid;
+	border-radius: 7px;
+	justify-content: flex-end;
+}
+.ramka{
+	border-right: 4px solid;
+	float: left;
+}
+
+.map_v2{
+	margin-left: 10%;
+	width: 80vw;
+    height: 89vh;
+    background: #e0dbd994;
+	text-align: right;
+	border: 4px solid;
+	border-radius: 7px;
+}
+.text{
+	font-size: 140%;
+	font-family: 'JetBrains Mono';
+	margin-left: 55%;
+	margin-right: 5%;
+	justify-content: space-between;
+}
+.text_down{
+	font-size: 140%;
+	font-family: 'Rust';
+	margin-left: 55%;
+	margin-right: 5%;
+	justify-content: space-between;
+	margin-top: 250px;
+
+}
+.op2{
+	font-size: 140%;
+	font-family: 'Rust';
+	margin-left: 55%;
+	margin-right: 5%;
+	justify-content: space-between;
+}
+a{
+	text-decoration: none;
+}
